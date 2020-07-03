@@ -137,11 +137,11 @@ PUT /songs_index/
                "filter": {
                    "custom_stopper": {
                        "type": "stop",
-                       "stopwords_path": "analysis/tamil_stopwords.txt"
+                       "stopwords_path": "analyzers/tamil_stopwords.txt"
                    },
                    "custom_stems": {
                        "type": "stemmer_override",
-                       "rules_path": "analysis/tamil_stemming.txt"
+                       "rules_path": "analyzers/tamil_stemming.txt"
                    }
                }
            }
