@@ -1,5 +1,4 @@
 # Tamil-Songs-Search-Engine
-# Tamil-Songs-Search-Engine
 ## Description
 There are nearly about 4000 Tamil songs collected from 'https://www.tamilpaa.com/tamil-movies-list'. These collected songs are included tamil_corpus.txt. These songs have 9 meta data such as movie, song, music, lyrics, singers, year, actors, song_url and full_lyrics. Randomly selected nearly 1000 songs data are fully translated to Tamil using python translate library. There is a search engine developed by using Elastic Search and Kibana.
 ## Sample Movie Song JSON format
