@@ -17,6 +17,19 @@ The data is scraped for 900 movies collected from 'https://www.tamilpaa.com/tami
 	"song_fulllyrics": "ஒஹ்… ஒவ்… ஒ ஒ ஒ ஒ… ஒவ்…\nம்… ம்… ம்ம்ம்ம்…\nஒஹ்… ஒவ்… ஒ ஒ ஒ ஒ… ஒவ்…\nம்… ம்… ம்ம்ம்ம்…\nசிறு சிறு உறவுகள் பிரிவுகள் என் நினைவுக்குள் …ஓ\nவர வர கசக்குது கசக்குது என் இளமையும் …ஹேய்\nநினைத்தது நடந்தது முடிந்தது என் கனவுக்குள் …ஆ\nஎன்னாச்சோ தெரியலையே…\n\nஊ…ஊ…ஊ\n\nசிறு சிறு உறவுகள் பிரிவுகள் என் நினைவுக்குள் …ஓ\n\nநினைவுக்குள் …ஓ\n\nவர வர கசக்குது கசக்குது என் இளமையும் …ஹேய்\n\nஇளமையும் …ஹேய்\n\nநினைத்தது நடந்தது முடிந்தது என் கனவுக்குள் …ஹா\n\nஎன்னாச்சோ தெரியலையே…\n\nநன… நன….\nபப… ப ப…\nலல… ல ல…\nஒவ்… ஒ ஒ…"
 }
 ```
+
+## Directory Structure
+---
+```
+ ├── analyzers : Custom filters (Stemmers,stoppingwords)
+ ├── tamil_songs_scraped_lyrics.txt :
+ ├── preprocessed_tamil_songs_lyrics.txt : 
+ ├── tamil_songs_corpus_final.txt : 
+ ├── Preprocessed_Songs_Data.ipynb : 
+ ├── web_scraping.ipynb : 
+```
+
+
 ## Queries for ElasticSearch search engine
 ```
 
