@@ -22,11 +22,11 @@ The data is scraped for 900 movies collected from 'https://www.tamilpaa.com/tami
 ---
 ```
  ├── analyzers : Custom filters (Stemmers,stoppingwords)
- ├── tamil_songs_scraped_lyrics.txt :
- ├── preprocessed_tamil_songs_lyrics.txt : 
- ├── tamil_songs_corpus_final.txt : 
- ├── Preprocessed_Songs_Data.ipynb : 
- ├── web_scraping.ipynb : 
+ ├── tamil_songs_scraped_lyrics.txt : Scraped lyrics are found in this file
+ ├── preprocessed_tamil_songs_lyrics.txt : Preprocessed lyrics after translating are in this file
+ ├── tamil_songs_corpus_final.txt : Bulk api format data are in this file
+ ├── Preprocessed_Songs_Data.ipynb : This file is used to process the scraped data
+ ├── web_scraping.ipynb : This is to scrape data
 ```
 
 
